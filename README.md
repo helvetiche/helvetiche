@@ -1,6 +1,12 @@
 # Your Name
 
-<img src="https://media.licdn.com/dms/image/v2/D5603AQE_5eubTjJNtw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730720272200?e=2147483647&v=beta&t=3lAfhxQj80fo7jZJNTajhW_DMuSdlQ3UXBhlX19NPuk" width="120" style="border-radius: 50%;" />
+<picture>
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQE_5eubTjJNtw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730720272200?e=2147483647&v=beta&t=3lAfhxQj80fo7jJZJNTajhW_DMuSdlQ3UXBhlX19NPuk" width="120">
+</picture>
+
+## Your Name
+
+helvetiche@gmail.com
 
 Full-stack developer focused on building efficient, scalable, and impactful systems.  
 I specialize in modern web technologies and workflow automation tools that solve real-world problems.
