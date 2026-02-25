@@ -1,15 +1,6 @@
-# Hi 👋, I'm Nasche Del ponso
+### Ephesians 4:32
 
-### Aspiring Full Stack Developer
-
-- I'm currently working on **productivity tool that will help employee from NIA (National Irrigation Administration) to speed up their process giving them a more job done in lesser period of time compare to their manual process.**
-
-- I'm currently learning **Cloud Computing, Mobile Development, Scalable Servers, Artificial Intelligence, and Automations**
-- I'm looking to collaborate on **Real world projects that has potential of being a good start up giving me a good opportunity as well as a strong background for my resume.**
-- I'm looking for help with **Learning more about cybersecurity and its aspects for building a secure and maintainable system that will last for more than I will expect.**
-- Ask me about **modern technology and what are my thoughts about it. Some might be outside the scope of my knowledge.**
-- How to reach me **You can email me by contacting "helvetiche@gmail.com" as it is my only business-related email.**
-
+*Ephesians 4:32 teaches that kindness is rooted in compassion and forgiveness. It calls us to treat others with grace, just as we have received grace ourselves. Being kind does not mean ignoring wrongs, but choosing understanding and love instead of bitterness. When we act with kindness, we reflect a heart that strives toward goodness and faith. It builds stronger relationships and creates a world where people feel valued. Kindness is a small action with a powerful impact—an expression of God’s love through our words and deeds. By living with compassion, we grow not only as better individuals but also as instruments of positive change and hope..*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
