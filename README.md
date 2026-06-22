@@ -1,4 +1,3 @@
-### `Christopher Cross - Sailing`
 
 *`
 Just a dream and the wind to carry me, Soon i will be free`*
