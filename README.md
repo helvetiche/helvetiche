@@ -1,7 +1,6 @@
 
 *`
-[ OPEN FOR WORK & COMMISSIONS!! ]
-Just a dream and the wind to carry me, Soon i will be free`*
+[ OPEN FOR WORK & COMMISSIONS!! ]`*
 <p align="left">
 <a href="https://github.com/helvetiche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="helvetiche" height="30" width="40" /></a>
 <a href="https://instagram.com/ponieta.gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ponieta.gg" height="30" width="40" /></a>
